@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root> 
+  <setting name="task-tab"> 
+    <setting name="show-description" value="true"/> 
+  </setting>  
+  <setting name="favorites-tab"> 
+    <setting name="favorites"> 
+      <setting name="favorite"> 
+        <setting name="full-command-line" value="run -Dbrowser=chrome -Dcredential=ae"/>  
+        <setting name="display-name" value="run-chrome-ae"/>  
+        <setting name="show-output" value="false"/> 
+      </setting>  
+      <setting name="favorite"> 
+        <setting name="full-command-line" value="run -Dbrowser=firefox -Dcredential=ae"/>  
+        <setting name="display-name" value="run-firefox-ae"/>  
+        <setting name="show-output" value="false"/> 
+      </setting>  
+      <setting name="favorite"> 
+        <setting name="full-command-line" value="run -Dbrowser=ie -Dcredential=ae"/>  
+        <setting name="display-name" value="run-ie-ae"/>  
+        <setting name="show-output" value="false"/> 
+      </setting>  
+      <setting name="favorite"> 
+        <setting name="full-command-line" value="run -Dbrowser=firefox -Dcredential=av"/>  
+        <setting name="display-name" value="run -Dbrowser=firefox -Dcredential=av"/>  
+        <setting name="show-output" value="false"/> 
+      </setting> 
+    </setting> 
+  </setting>  
+  <setting name="command_line-tab"/>  
+  <setting name="setup-tab"> 
+    <setting name="setup"> 
+      <setting name="custom-gradle-executor"/>  
+      <setting name="current-directory" value="E:\005 EclipceWorkspace\AAAA-GRADLE-TEST"/>  
+      <setting name="log-level" value="LIFECYCLE"/> 
+    </setting> 
+  </setting>  
+  <setting name="main_panel"> 
+    <setting name="current-tab" value="Favorites"/> 
+  </setting>  
+  <setting name="Application_window-id"> 
+    <setting name="window_x" value="-8"/>  
+    <setting name="window_y" value="-8"/>  
+    <setting name="window_width" value="1936"/>  
+    <setting name="window_height" value="1056"/>  
+    <setting name="extended-state" value="6"/> 
+  </setting>  
+  <setting name="SinglePaneUIInstance_splitter-id"> 
+    <setting name="divider_location" value="387"/> 
+  </setting> 
+</root>
